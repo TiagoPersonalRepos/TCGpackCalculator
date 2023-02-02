@@ -1,0 +1,960 @@
+{
+    "YuGiOh": {
+        "Photon-Hypernova": {
+            "Bystial-Baldrake": {
+                "Common": {
+                    "From": 0.05,
+                    "Price Trend": 0.66,
+                    "30-days average price": 0.62,
+                    "7-days average price": 0.62,
+                    "1-day average price": 0.66
+                }
+            },
+            "Scareclaw-Kashtira": {
+                "Common": {
+                    "From": 0.09,
+                    "Price Trend": 0.02,
+                    "30-days average price": 0.71,
+                    "7-days average price": 0.71,
+                    "1-day average price": 0.32
+                }
+            },
+            "Plunder-Patrollship-Jord": {
+                "Super Rare": {
+                    "From": 0.5,
+                    "Price Trend": 0.7,
+                    "30-days average price": 1.06,
+                    "7-days average price": 1.06,
+                    "1-day average price": 0.91
+                }
+            },
+            "Granguignol-the-Dusk-Dragon-V1-Ultra-Rare": {
+                "Ultra Rare": {
+                    "From": 13.95,
+                    "Price Trend": 18.6,
+                    "30-days average price": 17.32,
+                    "7-days average price": 17.32,
+                    "1-day average price": 17.61
+                }
+            },
+            "Dogmatikamatrix": {
+                "Super Rare": {
+                    "From": 0.24,
+                    "Price Trend": 0.47,
+                    "30-days average price": 0.68,
+                    "7-days average price": 0.68,
+                    "1-day average price": 0.55
+                }
+            },
+            "Rindbrumm-the-Striking-Dragon": {
+                "Ultra Rare": {
+                    "From": 9.99,
+                    "Price Trend": 14.88,
+                    "30-days average price": 14.49,
+                    "7-days average price": 14.49,
+                    "1-day average price": 13.54
+                }
+            },
+            "Gishki-Grimness": {
+                "Common": {
+                    "From": 0.05,
+                    "Price Trend": 0.02,
+                    "30-days average price": 0.58,
+                    "7-days average price": 0.58,
+                    "1-day average price": 0.27
+                }
+            },
+            "Evigishki-Neremanas": {
+                "Super Rare": {
+                    "From": 0.5,
+                    "Price Trend": 0.82,
+                    "30-days average price": 1.29,
+                    "7-days average price": 1.29,
+                    "1-day average price": 1.11
+                }
+            },
+            "Gishki-Nekromirror": {
+                "Common": {
+                    "From": 0.05,
+                    "Price Trend": 0.02,
+                    "30-days average price": 0.63,
+                    "7-days average price": 0.63,
+                    "1-day average price": 0.23
+                }
+            },
+            "Kashtira-Riseheart": {
+                "Ultra Rare": {
+                    "From": 27.99,
+                    "Price Trend": 35.16,
+                    "30-days average price": 32.94,
+                    "7-days average price": 32.94,
+                    "1-day average price": 34.67
+                }
+            },
+            "Pressured-Planet-Wraitsoth": {
+                "Secret Rare": {
+                    "From": 58.2,
+                    "Price Trend": 69.05,
+                    "30-days average price": 69.88,
+                    "7-days average price": 69.88,
+                    "1-day average price": 67.15
+                }
+            },
+            "Kashtira-Arise-Heart-V1-Secret-Rare": {
+                "Secret Rare": {
+                    "From": 29.89,
+                    "Price Trend": 36.71,
+                    "30-days average price": 37.53,
+                    "7-days average price": 37.53,
+                    "1-day average price": 36.35
+                }
+            },
+            "Big-Welcome-Labrynth": {
+                "Ultra Rare": {
+                    "From": 15.95,
+                    "Price Trend": 21.16,
+                    "30-days average price": 22.94,
+                    "7-days average price": 22.94,
+                    "1-day average price": 20.65
+                }
+            },
+            "Kashtiratheosis": {
+                "Secret Rare": {
+                    "From": 47.99,
+                    "Price Trend": 54.09,
+                    "30-days average price": 57.51,
+                    "7-days average price": 57.51,
+                    "1-day average price": 54.21
+                }
+            },
+            "Kashtira-Big-Bang": {
+                "Common": {
+                    "From": 0.05,
+                    "Price Trend": 0.04,
+                    "30-days average price": 0.73,
+                    "7-days average price": 0.73,
+                    "1-day average price": 0.3
+                }
+            },
+            "Tearlaments-Kashtira": {
+                "Ultra Rare": {
+                    "From": 29.94,
+                    "Price Trend": 34.77,
+                    "30-days average price": 33.64,
+                    "7-days average price": 33.64,
+                    "1-day average price": 35.18
+                }
+            },
+            "Dogmatika-Alba-Zoa": {
+                "Super Rare": {
+                    "Price Trend": 0.53,
+                    "30-days average price": 0.64,
+                    "7-days average price": 0.64,
+                    "1-day average price": 0.53,
+                    "BAD_5": 0.0
+                }
+            },
+            "Light-of-the-Branded": {
+                "Common": {
+                    "Price Trend": 0.23,
+                    "30-days average price": 0.25,
+                    "7-days average price": 0.25,
+                    "1-day average price": 0.23,
+                    "BAD_5": 0.0
+                }
+            },
+            "Qardan-the-Clear-Sighted": {
+                "Super Rare": {
+                    "Price Trend": 0.35,
+                    "30-days average price": 0.44,
+                    "7-days average price": 0.44,
+                    "1-day average price": 0.35,
+                    "BAD_5": 0.0
+                }
+            },
+            "The-Abyss-Dragon-Swordsoul": {
+                "Super Rare": {
+                    "Price Trend": 0.45,
+                    "30-days average price": 0.54,
+                    "7-days average price": 0.54,
+                    "1-day average price": 0.45,
+                    "BAD_5": 0.0
+                }
+            },
+            "Chaos-Mirage-Dragon": {
+                "Super Rare": {
+                    "From": 0.24,
+                    "Price Trend": 0.57,
+                    "30-days average price": 0.54,
+                    "7-days average price": 0.54,
+                    "1-day average price": 0.57
+                }
+            },
+            "Branded-Befallen": {
+                "Common": {
+                    "Price Trend": 0.24,
+                    "30-days average price": 0.27,
+                    "7-days average price": 0.27,
+                    "1-day average price": 0.24,
+                    "BAD_5": 0.0
+                }
+            },
+            "Sneaky-C": {
+                "Super Rare": {
+                    "Price Trend": 0.49,
+                    "30-days average price": 0.56,
+                    "7-days average price": 0.56,
+                    "1-day average price": 0.49,
+                    "BAD_5": 0.0
+                }
+            },
+            "Scareclaw-Defanging": {
+                "Common": {
+                    "Price Trend": 0.2,
+                    "30-days average price": 0.21,
+                    "7-days average price": 0.21,
+                    "1-day average price": 0.2,
+                    "BAD_5": 0.0
+                }
+            },
+            "Made-to-Order-Mermaid-Outfit-Outfitter": {
+                "Super Rare": {
+                    "Price Trend": 0.89,
+                    "30-days average price": 0.73,
+                    "7-days average price": 0.73,
+                    "1-day average price": 0.89,
+                    "BAD_5": 0.0
+                }
+            },
+            "Kashtira-Overlap": {
+                "Common": {
+                    "From": 0.05,
+                    "Price Trend": 0.02,
+                    "30-days average price": 0.6,
+                    "7-days average price": 0.6,
+                    "1-day average price": 0.39
+                }
+            },
+            "Chaos-Witch": {
+                "Super Rare": {
+                    "From": 0.24,
+                    "Price Trend": 0.41,
+                    "30-days average price": 0.48,
+                    "7-days average price": 0.48,
+                    "1-day average price": 0.41
+                }
+            },
+            "Laevatein-Generaider-Boss-of-Shadows": {
+                "Ultra Rare": {
+                    "From": 1.95,
+                    "Price Trend": 3.17,
+                    "30-days average price": 4.04,
+                    "7-days average price": 4.04,
+                    "1-day average price": 4.01
+                }
+            },
+            "Vala-Seidhr-of-the-Generaider-Bosses": {
+                "Common": {
+                    "Price Trend": 0.16,
+                    "30-days average price": 0.17,
+                    "7-days average price": 0.17,
+                    "1-day average price": 0.16,
+                    "BAD_5": 0.0
+                }
+            },
+            "Tri-Brigade-Arms-Bucephalus-II-V1-Super-Rare": {
+                "Super Rare": {
+                    "From": 0.24,
+                    "Price Trend": 0.59,
+                    "30-days average price": 0.68,
+                    "7-days average price": 0.68,
+                    "1-day average price": 0.59
+                }
+            },
+            "Gold-Pride-Nytro-Head": {
+                "Super Rare": {
+                    "Price Trend": 0.32,
+                    "30-days average price": 0.38,
+                    "7-days average price": 0.38,
+                    "1-day average price": 0.36,
+                    "BAD_5": 0.0
+                }
+            },
+            "Gigantic-Champion-Sargas": {
+                "Secret Rare": {
+                    "From": 14.99,
+                    "Price Trend": 18.24,
+                    "30-days average price": 19.98,
+                    "7-days average price": 19.98,
+                    "1-day average price": 19.32
+                }
+            },
+            "Gold-Pride-Nytro-Blaster": {
+                "Super Rare": {
+                    "Price Trend": 0.33,
+                    "30-days average price": 0.36,
+                    "7-days average price": 0.36,
+                    "1-day average price": 0.36,
+                    "BAD_5": 0.0
+                }
+            },
+            "Core-of-Chaos": {
+                "Common": {
+                    "From": 0.05,
+                    "Price Trend": 0.2,
+                    "30-days average price": 0.22,
+                    "7-days average price": 0.22,
+                    "1-day average price": 0.2
+                }
+            },
+            "Gold-Pride-Start-Your-Engines": {
+                "Super Rare": {
+                    "Price Trend": 0.33,
+                    "30-days average price": 0.39,
+                    "7-days average price": 0.39,
+                    "1-day average price": 0.39,
+                    "BAD_5": 0.0
+                }
+            },
+            "Green-Ninja": {
+                "Super Rare": {
+                    "Price Trend": 0.49,
+                    "30-days average price": 0.54,
+                    "7-days average price": 0.54,
+                    "1-day average price": 0.49,
+                    "BAD_5": 0.0
+                }
+            },
+            "Chaos-Beast": {
+                "Common": {
+                    "From": 0.05,
+                    "Price Trend": 0.18,
+                    "30-days average price": 0.2,
+                    "7-days average price": 0.2,
+                    "1-day average price": 0.18
+                }
+            },
+            "Dyna-Mondo": {
+                "Common": {
+                    "Price Trend": 0.19,
+                    "30-days average price": 0.21,
+                    "7-days average price": 0.21,
+                    "1-day average price": 0.19,
+                    "BAD_5": 0.0
+                }
+            },
+            "Galaxy-Summoner": {
+                "Common": {
+                    "From": 0.05,
+                    "Price Trend": 0.2,
+                    "30-days average price": 0.23,
+                    "7-days average price": 0.23,
+                    "1-day average price": 0.2
+                }
+            },
+            "Shell-of-Chaos": {
+                "Common": {
+                    "From": 0.05,
+                    "Price Trend": 0.19,
+                    "30-days average price": 0.2,
+                    "7-days average price": 0.2,
+                    "1-day average price": 0.19
+                }
+            },
+            "Jio-the-Gravity-Ninja": {
+                "Common": {
+                    "Price Trend": 0.2,
+                    "30-days average price": 0.24,
+                    "7-days average price": 0.24,
+                    "1-day average price": 0.2,
+                    "BAD_5": 0.0
+                }
+            },
+            "Galactikuriboh": {
+                "Super Rare": {
+                    "Price Trend": 0.53,
+                    "30-days average price": 0.57,
+                    "7-days average price": 0.57,
+                    "1-day average price": 0.53,
+                    "BAD_5": 0.0
+                }
+            },
+            "Photon-Emperor": {
+                "Common": {
+                    "From": 0.05,
+                    "Price Trend": 0.19,
+                    "30-days average price": 0.22,
+                    "7-days average price": 0.22,
+                    "1-day average price": 0.19
+                }
+            },
+            "Galaxy-Hundred": {
+                "Common": {
+                    "From": 0.05,
+                    "Price Trend": 0.2,
+                    "30-days average price": 0.23,
+                    "7-days average price": 0.23,
+                    "1-day average price": 0.2
+                }
+            },
+            "Gold-Pride-Captain-Carrie-V1-Ultra-Rare": {
+                "Ultra Rare": {
+                    "From": 3.4,
+                    "Price Trend": 3.5,
+                    "30-days average price": 4.32,
+                    "7-days average price": 4.32,
+                    "1-day average price": 3.68
+                }
+            },
+            "Gold-Pride-Leon-V1-Secret-Rare": {
+                "Secret Rare": {
+                    "From": 6.5,
+                    "Price Trend": 6.02,
+                    "30-days average price": 8.92,
+                    "7-days average price": 8.92,
+                    "1-day average price": 6.87
+                }
+            },
+            "Focused-Aquamirror": {
+                "Common": {
+                    "Price Trend": 0.17,
+                    "30-days average price": 0.19,
+                    "7-days average price": 0.19,
+                    "1-day average price": 0.17,
+                    "BAD_5": 0.0
+                }
+            },
+            "Chaos-Phantasm": {
+                "Common": {
+                    "From": 0.05,
+                    "Price Trend": 0.2,
+                    "30-days average price": 0.21,
+                    "7-days average price": 0.21,
+                    "1-day average price": 0.2
+                }
+            },
+            "Aphophis-the-Swamp-Deity": {
+                "Super Rare": {
+                    "Price Trend": 0.49,
+                    "30-days average price": 0.42,
+                    "7-days average price": 0.42,
+                    "1-day average price": 0.49,
+                    "BAD_5": 0.0
+                }
+            },
+            "Yaguramaru-the-Armor-Ninja": {
+                "Common": {
+                    "Price Trend": 0.2,
+                    "30-days average price": 0.24,
+                    "7-days average price": 0.24,
+                    "1-day average price": 0.2,
+                    "BAD_5": 0.0
+                }
+            },
+            "Triple-Tactic-Thrusting": {
+                "Secret Rare": {
+                    "Price Trend": 76.26,
+                    "30-days average price": 73.83,
+                    "7-days average price": 73.83,
+                    "1-day average price": 76.26,
+                    "BAD_5": 0.0
+                }
+            },
+            "Tally-Ho-Springans": {
+                "Common": {
+                    "Price Trend": 0.19,
+                    "30-days average price": 0.21,
+                    "7-days average price": 0.21,
+                    "1-day average price": 0.19,
+                    "BAD_5": 0.0
+                }
+            },
+            "Fairyant-the-Circular-Sorcerer": {
+                "Super Rare": {
+                    "Price Trend": 0.43,
+                    "30-days average price": 0.4,
+                    "7-days average price": 0.4,
+                    "1-day average price": 0.43,
+                    "BAD_5": 0.0
+                }
+            },
+            "Pharaonic-Advent": {
+                "Super Rare": {
+                    "From": 0.24,
+                    "Price Trend": 0.55,
+                    "30-days average price": 0.47,
+                    "7-days average price": 0.47,
+                    "1-day average price": 0.55
+                }
+            },
+            "Gold-Pride-The-Crowd-Goes-Wild": {
+                "Secret Rare": {
+                    "Price Trend": 11.72,
+                    "30-days average price": 12.32,
+                    "7-days average price": 12.32,
+                    "1-day average price": 11.26,
+                    "BAD_5": 0.0
+                }
+            },
+            "Gold-Pride-Star-Leon": {
+                "Ultra Rare": {
+                    "Price Trend": 3.44,
+                    "30-days average price": 4.23,
+                    "7-days average price": 4.23,
+                    "1-day average price": 3.57,
+                    "BAD_5": 0.0
+                }
+            },
+            "Tearlaments-Perlegia": {
+                "Common": {
+                    "Price Trend": 0.2,
+                    "30-days average price": 0.2,
+                    "7-days average price": 0.2,
+                    "1-day average price": 0.2,
+                    "BAD_5": 0.0
+                }
+            },
+            "Intimidating-Ore-Summonite": {
+                "Common": {
+                    "Price Trend": 0.21,
+                    "30-days average price": 0.2,
+                    "7-days average price": 0.2,
+                    "1-day average price": 0.21,
+                    "BAD_5": 0.0
+                }
+            },
+            "Numeron-Creation": {
+                "Common": {
+                    "From": 0.05,
+                    "Price Trend": 0.24,
+                    "30-days average price": 0.26,
+                    "7-days average price": 0.26,
+                    "1-day average price": 0.24
+                }
+            },
+            "Photon-Timestop": {
+                "Common": {
+                    "Price Trend": 0.22,
+                    "30-days average price": 0.25,
+                    "7-days average price": 0.25,
+                    "1-day average price": 0.22,
+                    "BAD_5": 0.0
+                }
+            },
+            "Abyss-Actors-Dress-Rehersal": {
+                "Super Rare": {
+                    "Price Trend": 0.38,
+                    "30-days average price": 0.4,
+                    "7-days average price": 0.4,
+                    "1-day average price": 0.38,
+                    "BAD_5": 0.0
+                }
+            },
+            "Chaos-Archfiend": {
+                "Ultra Rare": {
+                    "From": 5.7,
+                    "Price Trend": 8.6,
+                    "30-days average price": 9.36,
+                    "7-days average price": 9.36,
+                    "1-day average price": 8.6
+                }
+            },
+            "Weighbridge": {
+                "Secret Rare": {
+                    "From": 14.0,
+                    "Price Trend": 27.22,
+                    "30-days average price": 29.54,
+                    "7-days average price": 29.54,
+                    "1-day average price": 18.95
+                }
+            },
+            "Icejade-Manifestation": {
+                "Common": {
+                    "Price Trend": 0.28,
+                    "30-days average price": 0.26,
+                    "7-days average price": 0.26,
+                    "1-day average price": 0.28,
+                    "BAD_5": 0.0
+                }
+            },
+            "Evil-Eyes-Unleashed": {
+                "Common": {
+                    "Price Trend": 0.21,
+                    "30-days average price": 0.22,
+                    "7-days average price": 0.22,
+                    "1-day average price": 0.21,
+                    "BAD_5": 0.0
+                }
+            },
+            "Minairuki": {
+                "Common": {
+                    "Price Trend": 0.13,
+                    "30-days average price": 0.16,
+                    "7-days average price": 0.16,
+                    "1-day average price": 0.13,
+                    "BAD_5": 0.0
+                }
+            },
+            "Ultimate-Great-Insect": {
+                "Super Rare": {
+                    "Price Trend": 0.58,
+                    "30-days average price": 0.47,
+                    "7-days average price": 0.47,
+                    "1-day average price": 0.58,
+                    "BAD_5": 0.0
+                }
+            },
+            "Gravekeepers-Inscription": {
+                "Secret Rare": {
+                    "Price Trend": 31.7,
+                    "30-days average price": 32.71,
+                    "7-days average price": 32.71,
+                    "1-day average price": 31.7,
+                    "BAD_5": 0.0
+                }
+            },
+            "Tenchi-Kaimei": {
+                "Common": {
+                    "Price Trend": 0.29,
+                    "30-days average price": 0.29,
+                    "7-days average price": 0.29,
+                    "1-day average price": 0.29,
+                    "BAD_5": 0.0
+                }
+            },
+            "Basiltrice-Familiar-of-the-Evil-Eye": {
+                "Common": {
+                    "From": 0.05,
+                    "Price Trend": 0.21,
+                    "30-days average price": 0.21,
+                    "7-days average price": 0.21,
+                    "1-day average price": 0.21
+                }
+            },
+            "Choju-of-the-Trillion-Hands": {
+                "Super Rare": {
+                    "From": 0.24,
+                    "Price Trend": 0.38,
+                    "30-days average price": 0.35,
+                    "7-days average price": 0.35,
+                    "1-day average price": 0.38
+                }
+            },
+            "Dimensional-Allotrope-Varis": {
+                "Super Rare": {
+                    "Price Trend": 0.47,
+                    "30-days average price": 0.4,
+                    "7-days average price": 0.4,
+                    "1-day average price": 0.47,
+                    "BAD_5": 0.0
+                }
+            },
+            "Queen-Butterfly-Danaus": {
+                "Super Rare": {
+                    "Price Trend": 0.64,
+                    "30-days average price": 0.54,
+                    "7-days average price": 0.54,
+                    "1-day average price": 0.64,
+                    "BAD_5": 0.0
+                }
+            },
+            "Humongous-Hive-Hegemon-Zexstagger": {
+                "Super Rare": {
+                    "Price Trend": 0.64,
+                    "30-days average price": 0.5,
+                    "7-days average price": 0.5,
+                    "1-day average price": 0.64,
+                    "BAD_5": 0.0
+                }
+            },
+            "Mental-Tuner": {
+                "Common": {
+                    "Price Trend": 0.21,
+                    "30-days average price": 0.21,
+                    "7-days average price": 0.21,
+                    "1-day average price": 0.21,
+                    "BAD_5": 0.0
+                }
+            },
+            "Arktos-XII-Chronochasm-Vaylantz": {
+                "Super Rare": {
+                    "Price Trend": 0.66,
+                    "30-days average price": 0.51,
+                    "7-days average price": 0.51,
+                    "1-day average price": 0.66,
+                    "BAD_5": 0.0
+                }
+            },
+            "Icejade-Gymir-Aegirine": {
+                "Ultra Rare": {
+                    "Price Trend": 9.19,
+                    "30-days average price": 8.88,
+                    "7-days average price": 8.88,
+                    "1-day average price": 9.19,
+                    "BAD_5": 0.0
+                }
+            },
+            "Diabolantis-the-Menacing-Mantis": {
+                "Common": {
+                    "Price Trend": 0.19,
+                    "30-days average price": 0.2,
+                    "7-days average price": 0.2,
+                    "1-day average price": 0.19,
+                    "BAD_5": 0.0
+                }
+            },
+            "Fierce-Tiger-Monghu": {
+                "Common": {
+                    "Price Trend": 0.22,
+                    "30-days average price": 0.21,
+                    "7-days average price": 0.21,
+                    "1-day average price": 0.22,
+                    "BAD_5": 0.0
+                }
+            },
+            "Giant-Ballgame": {
+                "Common": {
+                    "Price Trend": 0.18,
+                    "30-days average price": 0.19,
+                    "7-days average price": 0.19,
+                    "1-day average price": 0.18,
+                    "BAD_5": 0.0
+                }
+            },
+            "Sour-Scheduling-Red-Vinegar-Vamoose": {
+                "Common": {
+                    "Price Trend": 0.22,
+                    "30-days average price": 0.21,
+                    "7-days average price": 0.21,
+                    "1-day average price": 0.22,
+                    "BAD_5": 0.0
+                }
+            },
+            "Number-C62-Neo-Galaxy-Eyes-Prime-Photon-Dragon": {
+                "Ultra Rare": {
+                    "From": 4.97,
+                    "Price Trend": 7.98,
+                    "30-days average price": 8.7,
+                    "7-days average price": 8.7,
+                    "1-day average price": 7.98
+                }
+            },
+            "Infinite-Antlion": {
+                "Common": {
+                    "Price Trend": 0.21,
+                    "30-days average price": 0.21,
+                    "7-days average price": 0.21,
+                    "1-day average price": 0.21,
+                    "BAD_5": 0.0
+                }
+            },
+            "Circle-of-the-Fairies": {
+                "Common": {
+                    "Price Trend": 0.18,
+                    "30-days average price": 0.18,
+                    "7-days average price": 0.18,
+                    "1-day average price": 0.18,
+                    "BAD_5": 0.0
+                }
+            },
+            "Abyss-Actor-Liberty-Dramatist": {
+                "Common": {
+                    "From": 0.05,
+                    "Price Trend": 0.09,
+                    "30-days average price": 0.12,
+                    "7-days average price": 0.12,
+                    "1-day average price": 0.09
+                }
+            },
+            "Abyss-Actor-Super-Producer": {
+                "Common": {
+                    "From": 0.05,
+                    "Price Trend": 0.1,
+                    "30-days average price": 0.12,
+                    "7-days average price": 0.12,
+                    "1-day average price": 0.1
+                }
+            },
+            "Abyss-Script-Dramatic-Story": {
+                "Common": {
+                    "From": 0.05,
+                    "Price Trend": 0.09,
+                    "30-days average price": 0.12,
+                    "7-days average price": 0.12,
+                    "1-day average price": 0.09
+                }
+            },
+            "Xyz-Align": {
+                "Common": {
+                    "Price Trend": 0.19,
+                    "30-days average price": 0.19,
+                    "7-days average price": 0.19,
+                    "1-day average price": 0.19,
+                    "BAD_5": 0.0
+                }
+            },
+            "Beargram-Shelled-Emperor-of-the-Forest-Crown": {
+                "Ultra Rare": {
+                    "Price Trend": 7.38,
+                    "30-days average price": 7.09,
+                    "7-days average price": 7.09,
+                    "1-day average price": 7.38,
+                    "BAD_5": 0.0
+                }
+            },
+            "Trivikarma": {
+                "Ultra Rare": {
+                    "From": 2.0,
+                    "Price Trend": 3.05,
+                    "30-days average price": 3.48,
+                    "7-days average price": 3.48,
+                    "1-day average price": 3.05
+                }
+            },
+            "Bio-Insect-Armor": {
+                "Common": {
+                    "From": 0.05,
+                    "Price Trend": 0.1,
+                    "30-days average price": 0.13,
+                    "7-days average price": 0.13,
+                    "1-day average price": 0.1
+                }
+            },
+            "Couples-of-Aces": {
+                "Common": {
+                    "Price Trend": 0.15,
+                    "30-days average price": 0.17,
+                    "7-days average price": 0.17,
+                    "1-day average price": 0.15,
+                    "BAD_5": 0.0
+                }
+            },
+            "Gigantic-Thundercross": {
+                "Common": {
+                    "Price Trend": 0.23,
+                    "30-days average price": 0.23,
+                    "7-days average price": 0.23,
+                    "1-day average price": 0.23,
+                    "BAD_5": 0.0
+                }
+            },
+            "Cassimolar": {
+                "Common": {
+                    "Price Trend": 0.29,
+                    "30-days average price": 0.27,
+                    "7-days average price": 0.27,
+                    "1-day average price": 0.29,
+                    "BAD_5": 0.0
+                }
+            },
+            "Galaxy-Photon-Dragon": {
+                "Secret Rare": {
+                    "From": 14.9,
+                    "Price Trend": 18.19,
+                    "30-days average price": 20.04,
+                    "7-days average price": 20.04,
+                    "1-day average price": 18.19
+                }
+            },
+            "Manticore-of-Smashing": {
+                "Common": {
+                    "From": 0.05,
+                    "Price Trend": 0.25,
+                    "30-days average price": 0.25,
+                    "7-days average price": 0.25,
+                    "1-day average price": 0.25
+                }
+            },
+            "Orphebull-the-Harmonious-Bullfighter-Bard": {
+                "Ultra Rare": {
+                    "Price Trend": 6.37,
+                    "30-days average price": 6.02,
+                    "7-days average price": 6.02,
+                    "1-day average price": 6.37,
+                    "BAD_5": 0.0
+                }
+            },
+            "Gold-Pride-Leon-V2-Ultra-Rare": {
+                "Ultra Rare": {
+                    "From": 25.0,
+                    "BAD_2": 0.0,
+                    "BAD_3": 0.0,
+                    "BAD_4": 0.0,
+                    "BAD_5": 0.0
+                }
+            },
+            "Mirrorjade-the-Iceblade-Dragon": {
+                "Starlight Rare": {
+                    "From": 366.0,
+                    "BAD_2": 0.0,
+                    "BAD_3": 0.0,
+                    "BAD_4": 0.0,
+                    "BAD_5": 0.0
+                }
+            },
+            "Sari-of-the-Silverwing-Axe": {
+                "Common": {
+                    "Price Trend": 0.33,
+                    "30-days average price": 0.33,
+                    "7-days average price": 0.33,
+                    "1-day average price": 0.33,
+                    "BAD_5": 0.0
+                }
+            },
+            "Meteor-Rush-Monochroid": {
+                "Common": {
+                    "BAD_1": 0.0,
+                    "BAD_2": 0.0,
+                    "BAD_3": 0.0,
+                    "BAD_4": 0.0,
+                    "BAD_5": 0.0
+                }
+            },
+            "Land-Flipping": {
+                "Common": {
+                    "Price Trend": 0.28,
+                    "30-days average price": 0.28,
+                    "7-days average price": 0.28,
+                    "1-day average price": 0.28,
+                    "BAD_5": 0.0
+                }
+            },
+            "Granguignol-the-Dusk-Dragon-V2-Starlight-Rare": {
+                "Starlight Rare": {
+                    "BAD_1": 0.0,
+                    "BAD_2": 0.0,
+                    "BAD_3": 0.0,
+                    "BAD_4": 0.0,
+                    "BAD_5": 0.0
+                }
+            },
+            "Kashtira-Arise-Heart-V2-Starlight-Rare": {
+                "Starlight Rare": {
+                    "From": 380.0,
+                    "BAD_2": 0.0,
+                    "BAD_3": 0.0,
+                    "BAD_4": 0.0,
+                    "BAD_5": 0.0
+                }
+            },
+            "Tri-Brigade-Arms-Bucephalus-II-V2-Starlight-Rare": {
+                "Starlight Rare": {
+                    "From": 320.0,
+                    "BAD_2": 0.0,
+                    "BAD_3": 0.0,
+                    "BAD_4": 0.0,
+                    "BAD_5": 0.0
+                }
+            },
+            "Gold-Pride-Captain-Carrie-V2-Starlight-Rare": {
+                "Starlight Rare": {
+                    "BAD_1": 0.0,
+                    "BAD_2": 0.0,
+                    "BAD_3": 0.0,
+                    "BAD_4": 0.0,
+                    "BAD_5": 0.0
+                }
+            }
+        }
+    }
+}
